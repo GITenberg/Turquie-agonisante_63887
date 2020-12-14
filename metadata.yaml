@@ -1,5 +1,8 @@
 _repo: Turquie-agonisante_63887
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63887-h/images/cover.jpg
 creator:
   author:
     agent_name: Loti, Pierre
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Pierre_Loti
     - https://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63887#Turquie-agonisante
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
